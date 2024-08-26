@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any interesting ML or AI projects, preferably stuff that has environmental applications!
 - 📫 How to reach me: dashielldecker@gmail.com or linkedin.com/dashielldecker
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a very experienced scuba diver :)
+- ⚡ Fun fact: I'm an experienced scuba diver :)
 
 <!---
 DashDecker/DashDecker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
